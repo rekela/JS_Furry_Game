@@ -30,6 +30,16 @@ section#board{
     height: 64px;
     float: left;
 }
+.furry{
+    background-image: url('../assets/furry.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.coin{
+    background-image: url('../assets/coin.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 section#over{
     position: fixed;
     width: 100%;
